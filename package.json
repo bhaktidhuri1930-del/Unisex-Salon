@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node dev-server.js",
     "dev": "node dev-server.js",
-    "build": "echo static site- no build required"
+    "build": "echo static site- no build required",
+    "start":"node dev-server.js"}
   },
   "keywords": [
     "salon",
